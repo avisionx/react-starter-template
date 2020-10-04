@@ -1,0 +1,47 @@
+$primary: #072366;
+$secondary: #6c757d;
+$success: #09cc7f;
+$info: #1696e7;
+$warning: #ffc107;
+$danger: #ec5b53;
+$light: #f8f9fa;
+$dark: #464d65;
+$btn-focus-box-shadow: none !important;
+
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@300;400;700&display=swap');
+@import '~bootstrap/scss/bootstrap';
+
+* {
+  transition-duration: 300ms;
+}
+
+body,
+html {
+  font-family: 'Mulish', sans-serif;
+}
+
+textarea:focus,
+textarea.form-control:focus,
+input.form-control:focus,
+input[type=text]:focus,
+input[type=password]:focus,
+input[type=email]:focus,
+input[type=number]:focus,
+[type=text].form-control:focus,
+[type=password].form-control:focus,
+[type=email].form-control:focus,
+[type=tel].form-control:focus,
+[contenteditable].form-control:focus {
+  box-shadow: none;
+}
+
+input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus,
+input:-webkit-autofill:active {
+  -webkit-box-shadow: 0 0 0 30px white inset !important;
+}
+
+input:-webkit-autofill {
+  -webkit-text-fill-color: #072366 !important;
+}
