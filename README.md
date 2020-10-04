@@ -45,7 +45,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 <!-- GETTING STARTED -->
 ## Getting Started
-To get up and running with this project on your local machine follow these simple steps.
+To use this repo as a template [click](https://github.com/avisionx/react-starter-template/generate) or to get up and running with this project on your local machine follow these simple steps.
 
 ### Prerequisites
 Here's a list of things you'll need to use have prior to installing the software.
