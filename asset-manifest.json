@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/github-readme-cards/static/css/main.c5bd1360.chunk.css",
+    "main.js": "/github-readme-cards/static/js/main.57d209b9.chunk.js",
+    "main.js.map": "/github-readme-cards/static/js/main.57d209b9.chunk.js.map",
+    "runtime-main.js": "/github-readme-cards/static/js/runtime-main.c417c8e0.js",
+    "runtime-main.js.map": "/github-readme-cards/static/js/runtime-main.c417c8e0.js.map",
+    "static/js/2.87117e50.chunk.js": "/github-readme-cards/static/js/2.87117e50.chunk.js",
+    "static/js/2.87117e50.chunk.js.map": "/github-readme-cards/static/js/2.87117e50.chunk.js.map",
+    "index.html": "/github-readme-cards/index.html",
+    "precache-manifest.a72d27954b790a815ae849d3945bc08e.js": "/github-readme-cards/precache-manifest.a72d27954b790a815ae849d3945bc08e.js",
+    "service-worker.js": "/github-readme-cards/service-worker.js",
+    "static/css/main.c5bd1360.chunk.css.map": "/github-readme-cards/static/css/main.c5bd1360.chunk.css.map",
+    "static/js/2.87117e50.chunk.js.LICENSE.txt": "/github-readme-cards/static/js/2.87117e50.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c417c8e0.js",
+    "static/js/2.87117e50.chunk.js",
+    "static/css/main.c5bd1360.chunk.css",
+    "static/js/main.57d209b9.chunk.js"
+  ]
+}
