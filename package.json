@@ -1,6 +1,6 @@
 {
-  "name": "github-readme-cards",
-  "homepage": "https://avisionx.github.io/github-readme-cards",
+  "name": "react-starter-template",
+  "homepage": "https://avisionx.github.io/react-starter-template",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

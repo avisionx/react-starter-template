@@ -1,8 +1,6 @@
 import React from 'react';
 import { HashRouter as DefaultRouter, Switch, Route } from "react-router-dom";
 
-import WakaTimeMonthlyLogs from './components/WakaTimeMonthlyLogs'
-
 const App = () => {
 
   var createBrowserHistory = require("history").createBrowserHistory;
@@ -11,7 +9,7 @@ const App = () => {
   return (
     <DefaultRouter history={history}>
       <Switch>
-        <Route exact path="/wakatime-monthly/" component={WakaTimeMonthlyLogs} />
+        <Route exact path="/" component={() => {return <>Hello World!</>}} />
       </Switch>
     </DefaultRouter>
   )
