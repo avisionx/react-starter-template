@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/github-readme-cards/static/css/main.c5bd1360.chunk.css",
-    "main.js": "/github-readme-cards/static/js/main.5b509a92.chunk.js",
-    "main.js.map": "/github-readme-cards/static/js/main.5b509a92.chunk.js.map",
-    "runtime-main.js": "/github-readme-cards/static/js/runtime-main.c417c8e0.js",
-    "runtime-main.js.map": "/github-readme-cards/static/js/runtime-main.c417c8e0.js.map",
-    "static/js/2.87117e50.chunk.js": "/github-readme-cards/static/js/2.87117e50.chunk.js",
-    "static/js/2.87117e50.chunk.js.map": "/github-readme-cards/static/js/2.87117e50.chunk.js.map",
-    "index.html": "/github-readme-cards/index.html",
-    "precache-manifest.6768fdd980e66b1df06e035d1278864e.js": "/github-readme-cards/precache-manifest.6768fdd980e66b1df06e035d1278864e.js",
-    "service-worker.js": "/github-readme-cards/service-worker.js",
-    "static/css/main.c5bd1360.chunk.css.map": "/github-readme-cards/static/css/main.c5bd1360.chunk.css.map",
-    "static/js/2.87117e50.chunk.js.LICENSE.txt": "/github-readme-cards/static/js/2.87117e50.chunk.js.LICENSE.txt"
+    "main.css": "/react-starter-template/static/css/main.c5bd1360.chunk.css",
+    "main.js": "/react-starter-template/static/js/main.56f88a4b.chunk.js",
+    "main.js.map": "/react-starter-template/static/js/main.56f88a4b.chunk.js.map",
+    "runtime-main.js": "/react-starter-template/static/js/runtime-main.e46ee344.js",
+    "runtime-main.js.map": "/react-starter-template/static/js/runtime-main.e46ee344.js.map",
+    "static/js/2.264fef76.chunk.js": "/react-starter-template/static/js/2.264fef76.chunk.js",
+    "static/js/2.264fef76.chunk.js.map": "/react-starter-template/static/js/2.264fef76.chunk.js.map",
+    "index.html": "/react-starter-template/index.html",
+    "precache-manifest.59aee2bc8d5c14c04f1a46c77902c944.js": "/react-starter-template/precache-manifest.59aee2bc8d5c14c04f1a46c77902c944.js",
+    "service-worker.js": "/react-starter-template/service-worker.js",
+    "static/css/main.c5bd1360.chunk.css.map": "/react-starter-template/static/css/main.c5bd1360.chunk.css.map",
+    "static/js/2.264fef76.chunk.js.LICENSE.txt": "/react-starter-template/static/js/2.264fef76.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c417c8e0.js",
-    "static/js/2.87117e50.chunk.js",
+    "static/js/runtime-main.e46ee344.js",
+    "static/js/2.264fef76.chunk.js",
     "static/css/main.c5bd1360.chunk.css",
-    "static/js/main.5b509a92.chunk.js"
+    "static/js/main.56f88a4b.chunk.js"
   ]
 }
