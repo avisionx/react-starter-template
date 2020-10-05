@@ -1,18 +1,20 @@
 import React from 'react';
-import { HashRouter as DefaultRouter, Switch, Route } from "react-router-dom";
+import { HashRouter as DefaultRouter, Switch, Route } from 'react-router-dom';
 
 const App = () => {
-
-  var createBrowserHistory = require("history").createBrowserHistory;
-  const history = createBrowserHistory();
-
   return (
-    <DefaultRouter history={history}>
+    <DefaultRouter>
       <Switch>
-        <Route exact path="/" component={() => {return <>Hello World!</>}} />
+        <Route
+          exact
+          path="/"
+          component={() => {
+            return <>Hello World!</>;
+          }}
+        />
       </Switch>
     </DefaultRouter>
-  )
+  );
 };
 
 export default App;
